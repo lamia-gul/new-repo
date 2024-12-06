@@ -1,0 +1,18 @@
+.root {
+    -fx-background-color: linear-gradient(to bottom, #301934, #1a0e20); /* Dark purple theme */
+}
+
+.label {
+    -fx-text-fill: #ffcc00; /* Bright orange text */
+    -fx-font-size: 18px;
+}
+
+.region {
+    -fx-background-color: #3b1b1b; /* Furniture default */
+    -fx-border-radius: 5px;
+}
+
+.lamp {
+    -fx-background-color: radial-gradient(center 50% 50%, radius 50%, #ffcc00, transparent);
+    -fx-opacity: 0.8;
+}
